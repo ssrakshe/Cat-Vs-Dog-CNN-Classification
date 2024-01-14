@@ -12,3 +12,12 @@ The algorithm achieved an impressive accuracy of 75% on the training and test da
 
 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤-
 Python, Convolutional Neural Networks(CNN), Deep Learning , Numpy, cv2, Pandas, Matplotlib
+
+
+Catch me:
+For any query,
+ping me on
+
+LinkedIn: @www.linkedin.com/in/shubham-rakshe-861842193
+
+Hope, it helps!! ヅ
